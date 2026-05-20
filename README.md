@@ -6,7 +6,7 @@ How to Play
 
 Download and install Processing (free)
 Download or clone this repository
-Open the .pde file in Processing
+Open the Main.pde file in Processing
 Click the Run button
 
 Controls
