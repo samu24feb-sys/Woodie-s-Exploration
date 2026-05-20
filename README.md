@@ -11,7 +11,7 @@ Woodie lost all of his parts — and where did all of them go? Set off on a ques
 1. Download and install [Processing](https://processing.org) (free)
 2. Click the green **Code** button on this page → **Download ZIP**
 3. Extract the ZIP file
-4. Open the `.pde` file in Processing
+4. Open the `Main_v04.pde` file in Processing
 5. Click the Run button
 
 ## Levels
